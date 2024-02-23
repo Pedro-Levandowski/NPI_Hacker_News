@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: #FF6600;
+    height: fit-content;
+    padding: 2px;
+    max-width: 1300px;
+    margin: auto;
+}
+
+main{
+    padding: 2px;
+    max-width: 1300px;
+    margin: auto;
+    background-color: #F6F6EF;
+}
+
+#principal{
+    font-size: 13px;
+    padding: 10px;
+    font-weight: 900;
+}
+
+nav{
+    padding: 10px;
+    font-size: 13px;
+}
+
+#logo, #principal, nav, #login{
+    display: inline;
+}
+
+.titulo{
+    padding-left: 7px;
+    font: lighter normal 13px Verdana;
+    height: 10px;
+}
+
+#login{
+    float: right;
+    font-size: 13px;
+    
+}
+
+.numero{
+    color: #828282;
+    padding-right: 5px;
+}
+
+.link{
+   color: black;    
+   text-decoration: none; 
+}
+
+.detalhes{
+    color: #828282;
+    font-size: 9.4px;
+    padding-left: 35px;
+    height: 10px;
+}
+
+hr{
+    background-color: #FF6600;
+    color: #FF6600;
+    height: 3px;
+}
+
+#lsearch{
+    color: #828282;
+}
+
+#search{
+    text-align: center;
+    font-size: 13px;
+}
+
+#rodape{
+    text-align: center;
+}
+
+#hrodape{
+    font-size: 10px;
+    height: 25px;
+    font-weight: 400;
+}
+
+#arodape{
+    color: black;
+    text-decoration: none;
+}
+
+
+
+
